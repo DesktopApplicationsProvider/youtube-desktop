@@ -1,10 +1,11 @@
 # YouTube for desktop
 
-YouTube for desktop is the same YouTube but for Windows as desktop application
+YouTube Desktop is the same YouTube but for Windows as desktop application
 
-YouTube windows is a video sharing service where you can watch, like, share, comment and upload ypur own videos.
+YouTube Desktop is a video sharing service where you can watch, like, share, comment and upload ypur own videos.
 The video service can be accessed on PCs, laptops, tablets and via mobile phones by using apps.
 
+Read more on the [Official YouTube Desktop Website.](https://desktopapplicationsprovider.github.io/youtube-desktop/).
  
 1.   In YouTube desktop you can: 
      - Users can search for and watch videos
